@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # MedChain - Pharmaceutical Supply Chain Management
 
 ## Overview
@@ -79,3 +80,6 @@ await contract.createDrugBatch("Medicine", rootHash, ipfsHash, 1000, expiry);
 ## License
 
 MIT
+=======
+# web-app-maverchain
+>>>>>>> eec4961a2f605ee3a3d2b2fb3528c285c2807902
